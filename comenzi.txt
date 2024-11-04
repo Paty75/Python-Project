@@ -1,0 +1,9 @@
+1. adauga_drama Drama1 123 10 
+2. afisare 
+3. adauga_animatie Animatie1 100 Romana
+4. afisare 
+5. afisare_animatii 
+6. alege_film 
+7. salveaza_filme filme.txt 
+8. adauga_drama DramaMare 200 20
+9. xyzt 
